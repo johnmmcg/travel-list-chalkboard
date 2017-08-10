@@ -1,0 +1,44 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background: gray;
+}
+
+img {
+  height: 20rem;
+  width: 70%;
+  margin-top: 2rem;
+}
+
+.box-div {
+  border: 5px solid tan;
+  border-radius: 10%;
+  margin-top: 2rem;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: black
+
+}
+
+.cross-off {
+  text-decoration: line-through;
+}
+
+h1 {
+  font-family: 'Sedgwick Ave Display', cursive;
+  color: white;
+  text-decoration: underline;
+  margin: 5%;
+  margin-bottom: 0px;
+  font-size: 30px;
+}
+
+li {
+  font-family: 'Rock Salt', cursive;
+}
+
+ul {
+  color: white;
+  list-style-type: square;
+  padding-right: 25%;
+  padding-left: 25%;
+}
